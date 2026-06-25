@@ -1,0 +1,9 @@
+{
+  "name": "Creator Surge Studios",
+  "description": "A global social commerce super-app for creators featuring reels, live audio spaces, marketplace, and geo-discovery.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
